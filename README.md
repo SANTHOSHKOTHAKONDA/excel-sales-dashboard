@@ -18,7 +18,6 @@ performance against monthly targets.
 |---|---|
 | `Sales_Dashboard_2024-2.xlsx` | Main Excel workbook with 5 sheets |
 | `Dashboard-preview.png` | Screenshot of the dashboard |
-\
 ## 📋 Sheets Explained
 | Sheet | What it contains |
 |---|---|
